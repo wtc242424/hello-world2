@@ -2,7 +2,7 @@
 practicing git
 
 
-Outline why developers use version control (e.g., tracking changes, collaboration, rollback, accountability).  (AC1.1) 
+# Outline why developers use version control (e.g., tracking changes, collaboration, rollback, accountability).  (AC1.1) 
 
 Version control is a system that helps developers manage and track changes to their code over time. It is an essential tool in software development because it allows teams to work efficiently and safely on the same project.
 
@@ -15,7 +15,7 @@ Another important benefit is rollback. If a bug or mistake is introduced, develo
 Finally, version control provides accountability. Every change is linked to a specific developer and commit message, making it clear who made a change and why. This helps teams review work, identify issues, and maintain responsibility for project contributions.
 
 
-Explain ways to use version control in a small Python project (e.g., commit often, meaningful messages, branches for features, pull requests for review). (AC1.2) 
+# Explain ways to use version control in a small Python project (e.g., commit often, meaningful messages, branches for features, pull requests for review). (AC1.2) 
 
 In a small Python project, version control can be used in several ways to improve organisation and code quality.
 
