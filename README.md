@@ -29,5 +29,4 @@ Another recommended practice is using pull requests. Before changes are merged, 
 
 By committing regularly, using descriptive commit messages, working on separate branches, and using pull requests for review, developers can manage a Python project more effectively and reduce the risk of errors.
 
-Ads do not influence the answers you get from ChatGPT. Your chats stay private. 
-Learn about ads and personalization
+
